@@ -1,0 +1,5 @@
+ microservice: 
+ ratings-data-service:
+ endpoints:
+ endpoint:
+ uri: http://ratings-data-service/ratingsdata/user/
